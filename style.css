@@ -195,3 +195,22 @@ footer {
         transition-duration: 0.01ms !important;
     }
 }
+
+/* YouTube trailer links in the movie-order section */
+.trailer-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 14px;
+    border: 1px solid #ff7f00;
+    border-radius: 6px;
+    color: #ffdd00;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.trailer-link:hover {
+    background-color: #ff7f00;
+    color: #000;
+    transform: translateY(-2px);
+}
