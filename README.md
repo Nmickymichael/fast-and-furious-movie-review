@@ -13,11 +13,13 @@ This project explores the Fast & Furious universe through a visually engaging we
 - Fast & Furious franchise highlights.
 - Responsive and user-friendly interface.
 - Movie-themed visual design.
+- Animated starfield background and scroll reveal effects.
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## 📸 Screenshots
 
@@ -30,21 +32,22 @@ Coming soon.
 ## 📂 Project Structure
 
 ```text
-fast-furious-movie-reviews/
+fast-and-furius-movie-review/
 │
 ├── index.html
 ├── style.css
-├── images/
+├── script.js
+├── image/
 └── README.md
 ```
 
 ## 🎯 Project Purpose
 
-This project demonstrates practical front-end web development skills, including HTML structure, CSS styling, layout design, and website presentation.
+This project demonstrates practical front-end web development skills, including semantic HTML structure, responsive CSS styling, JavaScript interactions, and website presentation.
 
 ## 👨‍💻 Author
 
-**Michael Harrison**
+**Michael Harrison Muthee Muriithi**
 
 GitHub: https://github.com/Nmickymichael
 
