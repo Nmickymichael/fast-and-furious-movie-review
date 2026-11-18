@@ -47,9 +47,7 @@ This project demonstrates practical front-end web development skills, including 
 
 ## 👨‍💻 Author
 
-**Michael Harrison Muthee Muriithi**
-
-GitHub: https://github.com/Nmickymichael
+Developed by Mickoryn
 
 ## 📄 License
 
